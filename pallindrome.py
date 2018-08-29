@@ -1,6 +1,6 @@
 a=raw_input()
 b=reversed(a)
 if list(a)==list(b):
-print("yes")
+       print("yes")
 else:
-print("no")
+       print("no")
