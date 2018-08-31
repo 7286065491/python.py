@@ -1,3 +1,3 @@
-n,a,d=map(int,input().split())
-val=(n*(2*a+(n-1)*d))//2
+x,y,z=map(int,input().split())
+val=(x*(2*y+(x-1)*z))//2
 print(val)
