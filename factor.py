@@ -1,7 +1,7 @@
-x=int(input())
+z=int(input())
 fact=1
-if x>0:
-        for i in range(1,x+1):
+if z>0:
+        for i in range(1,z+1):
                     fact=fact*i
         print(fact)
 else:
