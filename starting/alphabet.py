@@ -1,5 +1,5 @@
-ch="word"
-if(ch==0):
-   print("ch is an alphabet")
+ch=input("")
+if(ch>='a' and ch<='z'):
+     print("Alphabet")
 else:
-   print("ch is no")
+     print("No")
