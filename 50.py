@@ -1,5 +1,5 @@
 x=int(input(""))
-if (k & (k-1)):
+if (x & (x-1)):
     print("no")
 else:
     print("yes")
