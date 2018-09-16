@@ -4,4 +4,4 @@ while k<1000:
    if mn<2**k:
       print(2**k)
       break
-   i+=1
+   k+=1
